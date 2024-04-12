@@ -24,6 +24,22 @@ O script irá verificar o status do serviço especificado e iniciar automaticame
 - EX:
 ![script2](https://github.com/matheus3pires/Quarta-Atividade-de-Automacao-ADS1231-Devops/assets/87993331/d83e0960-b049-4e2e-89b0-822d7304ce58)
 
+## Instruções de Uso Docker
+1. Navegue para o Diretório do Projeto.
+2. Construa a Imagem Docker:
+   
+        docker build -t quarta-atividade . 
+       
+3. Execute o Container Docker:
+   
+        docker run -it quarta-atividade
+
+ ![imagem (1)](https://github.com/matheus3pires/Quarta-Atividade-de-Automacao-ADS1231-Devops/assets/87993331/f8505c20-b8b9-48f6-b064-23f1638372c9)
+
+       
+5. Interaja com o programa:
+   * Uma vez que o container esteja em execução, você poderá interagir com o seu aplicativo Java usando o terminal. Siga as instruções no console para usar os recursos do seu quadro Scrum.
+
 ## Minhas Redes.
 Fique conectado para mais novidades e atualizações. Não hesite em entrar em contato!
  
